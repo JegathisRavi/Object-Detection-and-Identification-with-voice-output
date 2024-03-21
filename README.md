@@ -6,7 +6,7 @@ https://pjreddie.com/media/files/yolov3.weights
 
 1. First, clone the repo
 
-$ cd object-detection-with-voice-feedback
+$ cd Object-Detection-and-Identification-with-voice-output
 
 # 2. Install Python packages
 $ pip install -r requirements.txt
